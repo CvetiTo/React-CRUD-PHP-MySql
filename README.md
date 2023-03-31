@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 In this application you can create, read, update and delete user data in the table.
-Frontend - React
-Backend - PHP MySQL (in the API folder of the project)
+- Frontend - React
+- Backend - PHP MySQL (in the API folder of the project)
  
 ## Available Scripts
 
@@ -34,10 +34,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Check API Results in Postman
 
-Get method : http://localhost/react/api
-PUT method : http://localhost/react/api/1
-DELTE method : http://localhost/react/api/1
-POST method : http://localhost/react/api/save 
+- Get method : http://localhost/react/api
+- PUT method : http://localhost/react/api/1
+- DELTE method : http://localhost/react/api/1
+- POST method : http://localhost/react/api/save 
 
 ## Learn More
 
